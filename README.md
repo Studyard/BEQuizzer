@@ -5,5 +5,6 @@ This repository supports the paper BEQuizzer: AI-based Quiz Automatic Generation
 ## Refined Models
 
 We follow two main algorithm to finetune our models for generation:
-
+[hello](https://github.com/Studyard/BEQuizzer/blob/main/img/alg1.png)
+ 
 ## LLMs
